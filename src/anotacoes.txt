@@ -1,0 +1,29 @@
+dados SKYPE image para estimação do potencial energetico
+
+
+
+Prepare the initial dataset-The historic Typical Meteorological Year (TMY) dataset from 1990-2013 with
+.tm2 file extension are used to generate the weather data for the proposed algorithm. The System Advisor Model (SAM)
+is used to generate the energy output of the PV system [24]. The SAM is developed by the National Renewable Energy
+Laboratory (NREL) to estimate the energy output of renewable energy systems including PV generators by the physical
+model of the system  (a new data driven long-term solar yield analysis model of photovoltaic power plants)
+
+
+. Results show that SSRD, a reanalysis data from ERA5, is a better alternative to in situ solar irradiance when forecasting solar PV output for the hot dry and cool dry seasons. Meanwhile, SWR, a satellite-based solar irradiance data from Himawari 08,
+
+na primeira procura
+    g1 = 77 --- 112  --- 104
+    g2 = 240 --- 435 --- 315
+    g3 = 157 --- 355 --- 355
+
+
+
+#0 >> filter_3g_procura_14_07_2025.csv
+#1 >> filter_2g_1FV_procura_14_07_2025.csv
+#2 >> filter_1g_1FV_procura_14_07_2025.csv
+#3 >> filter_1g_1FV_procura_22_07_2025_update.csv
+#4 >> filter_2g_1FV_procura_22_07_2025_update.csv
+#5 >> filter_3g_procura_22_07_2025_update.csv
+#6 >> filter_2g_FV_procura_14_07_2025_rev.csv
+#7 >> filter_3g_FV_procura_14_07_2025_rev.csv
+#8 >> filter_1g_FV_procura_14_07_2025_rev.csv

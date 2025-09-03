@@ -1,0 +1,36 @@
+https://sites.google.com/view/mod-cien-amb-2025/apresenta%C3%A7%C3%B5es
+
+scopus
+("Remote Sensing" OR "Satellite imagery" ) AND ( "photovoltaic panel*" OR "solar photovoltaic*" ) AND ( "Deep Semantic Segmentation" OR "convolutional neural network" OR "convolutional autoencode" OR "vision in transformers" ) AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) OR LIMIT-TO ( DOCTYPE , "bk" ) OR LIMIT-TO ( DOCTYPE , "ch" ) ) AND ( EXCLUDE ( EXACTKEYWORD , "Antennas" ) )
+
+
+scopus dia 14-07-2025
+("Remote Sensing" OR "Satellite imagery") AND ("photovoltaic panel*" OR "solar photovoltaic*") AND ("Deep Semantic Segmentation" OR "convolutional neural network" OR "convolutional autoencode" OR "vision in transformers") AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) OR LIMIT-TO ( DOCTYPE , "ch" ) OR LIMIT-TO ( DOCTYPE , "bk" ))
+
+scopus dia 21-07-2025
+("Remote Sensing" OR "Satellite imagery" OR "mapping") AND ("photovoltaic panel*" OR "solar photovoltaic*" OR "pv panel" OR "photovoltaic energy generation" OR "power generation" OR "photovoltaic plant" OR "photovoltaic generation" OR "photovoltaic solar farms" OR "solar park") AND ("Deep Semantic Segmentation" OR "convolutional neural*" OR "convolutional autoencode" OR "vision in transformers" OR "deep learning" OR "segmentation" OR "photovoltaic panels detection" OR "photovoltaic panel extraction" OR "generative adversarial networks" OR 'cnn' OR 'autoencode' OR "deep-learning method") AND (LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) OR LIMIT-TO ( DOCTYPE , "ch" ) OR LIMIT-TO ( DOCTYPE , "bk" ))
+
+scopus dia 22-07-2025
+
+("Remote Sensing" OR "Satellite imagery") AND ("photovoltaic panel*" OR "solar photovoltaic*") AND ("Deep Semantic Segmentation" OR "convolutional neural network" OR "convolutional autoencode" OR "vision in transformers") AND ( EXCLUDE ( EXACTKEYWORD , "Antennas" ) OR ()) AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) OR LIMIT-TO ( DOCTYPE , "ch" ) OR LIMIT-TO ( DOCTYPE , "bk" ))
+
+melhorada
+( "Remote Sensing" OR "Satellite imagery" OR "mapping") AND ( "photovoltaic panel*" OR "solar photovoltaic*" OR "pv panel" OR "photovoltaic solar" OR "solar farms" OR "solar park" ) AND ( "Deep Semantic Segmentation" OR "convolutional neural network" OR "convolutional autoencode" OR "vision in transformers"  OR "cnn" OR "deep-learning method" ) (EXCLUDE ( EXACTKEYWORD , "Antennas" ) OR (EXACTKEYWORD , "fault detection" ) OR (EXACTKEYWORD , "detection fault" ) OR (EXACTKEYWORD , "aerial" )) AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) OR LIMIT-TO ( DOCTYPE , "ch" ) OR LIMIT-TO ( DOCTYPE , "bk" ) )
+1417
+
+web of science
+TS=("Remote Sensing" OR "Satellite imagery") AND TS=("photovoltaic panel*" OR "solar photovoltaic*") AND TS=("Deep Semantic Segmentation" OR "convolutional neural network" OR "convolutional autoencode" OR "vision in transformers") AND DT=(Article OR Review OR Book OR "Book Chapter") NOT TS=Antennas
+
+75 98833-7290
+
+
+Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers
+
+
+
+keywords to exclude
+environmental impact of rooftop
+dust detection
+aerial vehicle
+sky camera.
+18860
