@@ -3,7 +3,7 @@
 #     @Argument : aaa
 # """
 
-
+options(repos = c(CRAN = "https://cran.fiocruz.br/"))
 library("bibliometrix")
 # biblioshiny(browser = "/usr/bin/chromium")
 biblioshiny()
