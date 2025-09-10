@@ -15,7 +15,7 @@ scopus dia 22-07-2025
 ("Remote Sensing" OR "Satellite imagery") AND ("photovoltaic panel*" OR "solar photovoltaic*") AND ("Deep Semantic Segmentation" OR "convolutional neural network" OR "convolutional autoencode" OR "vision in transformers") AND ( EXCLUDE ( EXACTKEYWORD , "Antennas" ) OR ()) AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) OR LIMIT-TO ( DOCTYPE , "ch" ) OR LIMIT-TO ( DOCTYPE , "bk" ))
 
 melhorada
-( "Remote Sensing" OR "Satellite imagery" OR "mapping") AND ( "photovoltaic panel*" OR "solar photovoltaic*" OR "pv panel" OR "photovoltaic solar" OR "solar farms" OR "solar park" ) AND ( "Deep Semantic Segmentation" OR "convolutional neural network" OR "convolutional autoencode" OR "vision in transformers"  OR "cnn" OR "deep-learning method" ) (EXCLUDE ( EXACTKEYWORD , "Antennas" ) OR (EXACTKEYWORD , "fault detection" ) OR (EXACTKEYWORD , "detection fault" ) OR (EXACTKEYWORD , "aerial" )) AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) OR LIMIT-TO ( DOCTYPE , "ch" ) OR LIMIT-TO ( DOCTYPE , "bk" ) )
+( "Remote Sensing" OR "Satellite imagery" OR "mapping") AND ( "photovoltaic panel*" OR "solar photovoltaic*" OR "pv panel" OR "photovoltaic solar" OR "solar farms" OR "solar park" ) AND ( "Deep Semantic Segmentation" OR "convolutional neural network" OR "convolutional autoencode" OR "vision in transformers"  OR "cnn" OR "deep-learning method" ) (EXCLUDE ( EXACTKEYWORD , "Antennas" ) OR (EXACTKEYWORD , "fault detection" ) OR (EXACTKEYWORD , "detection fault" ) OR (EXACTKEYWORD , "aerial" ) OR (EXACTKEYWORD , "sky image" )) AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) OR LIMIT-TO ( DOCTYPE , "ch" ) OR LIMIT-TO ( DOCTYPE , "bk" ) )
 1417
 
 web of science
